@@ -1,4 +1,4 @@
-<h1>Cart-product</h1>  
+<h1>cart-product</h1>  
 https://sergeyfilatovv.github.io/cart-build/ </br>
 
 Корзина товаров - тренировачный проект, который написан на React.js
